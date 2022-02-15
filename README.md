@@ -10,7 +10,7 @@ Currently studying design patterns in Java.
 | Pattern             | Status                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | **Strategy** | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) |
-| **Observer** | ![#FC0000](https://via.placeholder.com/10/FC0000?text=+)|
+| **Observer** | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+)|
 | **Decorator** | ![#FC0000](https://via.placeholder.com/10/FC0000?text=+)|
 | **Abstract Factory** | ![#FC0000](https://via.placeholder.com/10/FC0000?text=+)|
 | **Chain Of Responsibility** | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+)|
