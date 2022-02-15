@@ -11,16 +11,16 @@ Currently studying design patterns in Java.
 | ----------------- | ------------------------------------------------------------------ |
 | **Strategy** | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) |
 | **Observer** | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+)|
-| **Decorator** | ![#FC0000](https://via.placeholder.com/10/FC0000?text=+)|
 | **Abstract Factory** | ![#FC0000](https://via.placeholder.com/10/FC0000?text=+)|
 | **Chain Of Responsibility** | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+)|
 | **Singleton** | ![#FC0000](https://via.placeholder.com/10/FC0000?text=+)|
 | **Command** | ![#FC0000](https://via.placeholder.com/10/FC0000?text=+)|
 | **Facade** | ![#FC0000](https://via.placeholder.com/10/FC0000?text=+)|
-| **Decorator** | ![#FC0000](https://via.placeholder.com/10/FC0000?text=+)|
+| **Decorator** | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+)|
 | **Adapter** | ![#FC0000](https://via.placeholder.com/10/FC0000?text=+)|
 | **Template method** | ![#FC0000](https://via.placeholder.com/10/FC0000?text=+)|
 | **Iterator** | ![#FC0000](https://via.placeholder.com/10/FC0000?text=+)|
+| **Factory method** | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) |
 | **Composite** | ![#FC0000](https://via.placeholder.com/10/FC0000?text=+)|
 | **Proxy** | ![#FC0000](https://via.placeholder.com/10/FC0000?text=+)|
 | **State** | ![#FC0000](https://via.placeholder.com/10/FC0000?text=+)|
