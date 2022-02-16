@@ -11,7 +11,7 @@ Currently studying design patterns in Java.
 | ----------------- | ------------------------------------------------------------------ |
 | **Strategy** | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) |
 | **Observer** | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+)|
-| **Abstract Factory** | ![#FC0000](https://via.placeholder.com/10/FC0000?text=+)|
+| **Abstract Factory** | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+)|
 | **Chain Of Responsibility** | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+)|
 | **Singleton** | ![#FC0000](https://via.placeholder.com/10/FC0000?text=+)|
 | **Command** | ![#FC0000](https://via.placeholder.com/10/FC0000?text=+)|
