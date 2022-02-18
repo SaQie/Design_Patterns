@@ -13,7 +13,7 @@ Currently studying design patterns in Java.
 | **Observer** | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+)|
 | **Abstract Factory** | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+)|
 | **Chain Of Responsibility** | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+)|
-| **Singleton** | ![#FC0000](https://via.placeholder.com/10/FC0000?text=+)|
+| **Singleton** | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+)|
 | **Command** | ![#FC0000](https://via.placeholder.com/10/FC0000?text=+)|
 | **Facade** | ![#FC0000](https://via.placeholder.com/10/FC0000?text=+)|
 | **Decorator** | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+)|
