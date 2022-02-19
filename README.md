@@ -14,7 +14,7 @@ Currently studying design patterns in Java.
 | **Abstract Factory** | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+)|
 | **Chain Of Responsibility** | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+)|
 | **Singleton** | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+)|
-| **Command** | ![#FC0000](https://via.placeholder.com/10/FC0000?text=+)|
+| **Command** | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+)|
 | **Facade** | ![#FC0000](https://via.placeholder.com/10/FC0000?text=+)|
 | **Decorator** | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+)|
 | **Adapter** | ![#FC0000](https://via.placeholder.com/10/FC0000?text=+)|
