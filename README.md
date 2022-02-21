@@ -15,9 +15,9 @@ Currently studying design patterns in Java.
 | **Chain Of Responsibility** | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+)|
 | **Singleton** | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+)|
 | **Command** | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+)|
-| **Facade** | ![#FC0000](https://via.placeholder.com/10/FC0000?text=+)|
+| **Facade** | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+)|
 | **Decorator** | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+)|
-| **Adapter** | ![#FC0000](https://via.placeholder.com/10/FC0000?text=+)|
+| **Adapter** | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+)|
 | **Template method** | ![#FC0000](https://via.placeholder.com/10/FC0000?text=+)|
 | **Iterator** | ![#FC0000](https://via.placeholder.com/10/FC0000?text=+)|
 | **Factory method** | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) |
